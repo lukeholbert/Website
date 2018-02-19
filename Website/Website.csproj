@@ -15,5 +15,15 @@
   <ItemGroup>
     <Folder Include="Views\Projects\" />
     <Folder Include="Views\Photography\" />
+    <Folder Include="wwwroot\images\" />
+    <Folder Include="wwwroot\images\Astrophotography\" />
+    <Folder Include="wwwroot\images\Australia\" />
+    <Folder Include="wwwroot\images\New Zealand\" />
+    <Folder Include="Views\PhotoAlbum\" />
+    <Folder Include="Views\Photo\" />
+    <Folder Include="wwwroot\images\Maui\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\images\Astrophotography\Eclipse.jpg" />
   </ItemGroup>
 </Project>
